@@ -1,0 +1,8 @@
+if we want to run the program in LINUX,
+
+-eve: python3 antichess.py (with no arguments)
+-pve: python3 antichess.py white (given argument)
+      python3 antichess.py black
+
+if we give more than 2 arguments, program will exit
+if we give argument other than "white", player will automatically be seen as player black
