@@ -1,23 +1,23 @@
-## Project Antichess
-# Description
+# Project Antichess
+## Description
 Project Antichess is a Python-based implementation of the antichess variant of chess. The project's core functionality is encapsulated in the antichess.py script, which allows players to engage in antichess matches with different modes of play.
 
-# Installation
+## Installation
 No specific installation steps required if Python is already installed. Just clone or download the project.
 
-# Usage
+## Usage
 To run the game, navigate to the project directory and execute the following commands in the terminal:
 
-For a default game:
+###For a default game:
 ```shell
     python3 antichess.py
 ```
 
-For player versus environment (PvE) mode, specify either 'white' or 'black':
+###For player versus environment (PvE) mode, specify either 'white' or 'black':
 ```shell
     python3 antichess.py white
 ```
-or
+###or
 ```shell
     python3 antichess.py black
 ```
