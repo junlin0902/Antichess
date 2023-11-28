@@ -8,16 +8,16 @@ No specific installation steps required if Python is already installed. Just clo
 ## Usage
 To run the game, navigate to the project directory and execute the following commands in the terminal:
 
-###For a default game:
+For a default game:
 ```shell
     python3 antichess.py
 ```
 
-###For player versus environment (PvE) mode, specify either 'white' or 'black':
+For player versus environment (PvE) mode, specify either 'white' or 'black':
 ```shell
     python3 antichess.py white
 ```
-###or
+or
 ```shell
     python3 antichess.py black
 ```
