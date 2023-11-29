@@ -1,4 +1,4 @@
-# Project Antichess
+# Antichess
 ## Description
 Project Antichess is a Python-based implementation of the antichess variant of chess. The project's core functionality is encapsulated in the antichess.py script, which allows players to engage in antichess matches with different modes of play.
 
